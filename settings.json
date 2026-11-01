@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Craftioduo",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Craftioduo",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "CraftioTeamPros.aternos.me",
+    "port": 26135,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
